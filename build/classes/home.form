@@ -72,6 +72,9 @@
             </Property>
             <Property name="text" type="java.lang.String" value="Payment"/>
           </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jMenu6MouseClicked"/>
+          </Events>
         </Menu>
       </SubComponents>
     </Menu>
